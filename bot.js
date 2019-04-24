@@ -19,7 +19,7 @@ text = cfg.txt;
     
     client.connect(function(){ 
     client.say('nickserv', '/mode '+cfg.nick+' +B');
-    client.say("nickserv", "identify tinabotfgtbag");
+    client.say("nickserv", "identify tinabot");
     });
     
 /********************
